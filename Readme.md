@@ -26,7 +26,8 @@ npm init playwright@latest
 
 Initializing project in '.'
 √ Do you want to use TypeScript or JavaScript? · JavaScript
-√ Where to put your end-to-end tests? · tests
+√ Where to put your end-to-end tests? · tests (#Folder name should be tests not e2e#)
+    -> Delete example.spec.js from tests folder
 √ Add a GitHub Actions workflow? (Y/n) · false
 √ Install Playwright browsers (can be done manually via 'npx playwright install')? (Y/n) · true
 
